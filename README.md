@@ -23,6 +23,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Implicit Behavioral Alignment of Language Agents in High-Stakes Crowd Simulations**](https://arxiv.org/pdf/2509.16457) | EMNLP25 | 2025-09-19 | - | - |
 | [**Beyond Dialogue: A Profile-Dialogue Alignment Framework Towards General Role-Playing Language Model**](https://arxiv.org/pdf/2408.10903) | Arxiv24 | 2024-08-29 | [BeyondDialogue](https://github.com/yuyouyu32/BeyondDialogue) | - |
 | [**RoleInteract: Evaluating the Social Interaction of Role-Playing Agents**](https://arxiv.org/pdf/2403.13679.pdf) | Arxiv24 | 2024-03-21 | [RoleInteract](https://github.com/X-PLUG/RoleInteract) | - |
 | [**Unveiling the Secrets of Engaging Conversations: Factors that Keep Users Hooked on Role-Playing Dialog Agents**](https://arxiv.org/pdf/2402.11522.pdf) | Arxiv24 | 2024-03-13 | - | - |
